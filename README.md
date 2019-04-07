@@ -1,6 +1,6 @@
-# shadowsocks
-shadowsocks script
-#Centos,Debian,Ubuntu
+# ShadowSocks
+ShadowSocks AutoScript
+# Centos,Debian,Ubuntu
 ### Commands
 ```
 wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/shigenojay/shadowsocks/master/shadowsocks-all.sh
